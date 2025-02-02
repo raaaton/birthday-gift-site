@@ -1,6 +1,7 @@
 ## Birthday GIFt Site
 
-
+#### Simple birthday GIFt Site made using Scrimba to learn front-end development.
+##### You can visit it at : https://simple-birthday-gift-site.netlify.app/
 
 
 ### About Scrimba
